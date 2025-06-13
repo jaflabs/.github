@@ -1,4 +1,4 @@
-# Just Another Framework Labs
+# Joint Assembly Foundation Labs
 
 There's a simpler way to break software into parts and put things together.
 
